@@ -18,6 +18,7 @@ This project involves the creation of a premium, high-aesthetic personal webpage
 - **Deployment Ready**: Source code is structured for easy deployment on platforms like GitHub Pages, Vercel, or Netlify.
 
 ## Repository Information
+- **Live Demo**: [https://kai-1907.github.io/DRL_L1/](https://kai-1907.github.io/DRL_L1/)
 - **GitHub URL**: [https://github.com/Kai-1907/DRL_L1.git](https://github.com/Kai-1907/DRL_L1.git)
 - **Contact Email**: `kk358107@gmail.com`
 - **Lead Developer**: Kai (via Antigravity AI)
