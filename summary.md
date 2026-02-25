@@ -1,5 +1,7 @@
 # Project Proposal Summary: Personal Digital Space
 
+![Project Preview](./preview.png)
+
 ## Overview
 This project involves the creation of a premium, high-aesthetic personal webpage for **朱仕凱**. The goal was to build a visually stunning landing page that serves as a digital home, featuring modern design elements and interactive components.
 
